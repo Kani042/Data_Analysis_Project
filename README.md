@@ -15,7 +15,7 @@ keeps it relevant to a diverse customer base.
 
 This analysis will answer the following research questions.
 
-Research questions:
+## Research questions:
 
 ->Can we identify the peak hours during which the restaurant experiences the highest sales,
 and how do sales vary during these peak hours?
