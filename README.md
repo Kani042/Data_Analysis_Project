@@ -1,4 +1,4 @@
-# Data_Analysis_Project
+#  Restaurant Data_Analysis_Project
 Running a successful restaurant means more than just making tasty food. It is about
 understanding what customers like, keeping up with trends, and making sure things run
 smoothly. Analyzing sales data is crucial for restaurant owners and managers to make smart
