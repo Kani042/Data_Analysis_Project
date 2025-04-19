@@ -19,8 +19,11 @@ Research questions:
 
 ->Can we identify the peak hours during which the restaurant experiences the highest sales,
 and how do sales vary during these peak hours?
+
 ->How do sales differ between Fast-food and Beverages categories, and are there specific
 times or days when one category outperforms the other?
+
 ->Does the customer's gender impact sales?
+
 ->Analyzing to find out whether there is any linear relationship between item price,
 quantity and received by.
