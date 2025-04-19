@@ -14,7 +14,9 @@ processes. The ability to blend tradition with modernity contributes to the rest
 keeps it relevant to a diverse customer base.
 
 This analysis will answer the following research questions.
+
 Research questions:
+
 ->Can we identify the peak hours during which the restaurant experiences the highest sales,
 and how do sales vary during these peak hours?
 ->How do sales differ between Fast-food and Beverages categories, and are there specific
